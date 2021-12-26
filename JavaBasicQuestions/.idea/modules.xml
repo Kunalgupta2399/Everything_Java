@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArraysQuestions.iml" filepath="$PROJECT_DIR$/ArraysQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasicQuestions.iml" filepath="$PROJECT_DIR$/JavaBasicQuestions.iml" />
     </modules>
   </component>
 </project>

@@ -30,8 +30,8 @@ public class ArrayRemoveBeforeAndAfter {
         for (int i = 0; i < index; i++) {
             newArray[i] = a[i];
         }
-        for (int i = index; i < a.length; i++) {
-            newArray[i - 1] = a.length;
+        for (int i = index + 1; i < a.length; i++) {
+            newArray[i - 1] = a[i];
         }
         return newArray;
     }

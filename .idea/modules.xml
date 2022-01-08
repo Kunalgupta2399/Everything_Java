@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayGeeksForGeeks/ArrayGeeksForGeeks.iml" filepath="$PROJECT_DIR$/ArrayGeeksForGeeks/ArrayGeeksForGeeks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Everything_Java.iml" filepath="$PROJECT_DIR$/Everything_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
     </modules>
   </component>
 </project>

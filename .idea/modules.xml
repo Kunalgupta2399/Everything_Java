@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Everything_Java.iml" filepath="$PROJECT_DIR$/Everything_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/MatrixGeeksForGeeks/MatrixGeeksForGeeks.iml" filepath="$PROJECT_DIR$/MatrixGeeksForGeeks/MatrixGeeksForGeeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PepCodingQuestions/PepCodingQuestions.iml" filepath="$PROJECT_DIR$/PepCodingQuestions/PepCodingQuestions.iml" />
     </modules>
   </component>
 </project>

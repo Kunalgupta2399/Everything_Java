@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 public class SumOfTwoArray {
     public static void main(String[] args) {
-        int[] a =        {3, 1, 0, 7, 5};
-        int[] b = {9, 3, 1, 1, 1, 1 , 1};
+        int[] a = {1, 5, 2, 3, 1, 0, 7, 5, 6};
+        int[] b =       {9, 3, 1, 1, 1, 1, 1};
         int[] c;
         if (a.length > b.length) {
             c = new int[a.length];
